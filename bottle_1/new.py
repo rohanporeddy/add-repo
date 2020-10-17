@@ -5,7 +5,7 @@ from bottle import default_app, route
 @route('/')
 def hello_world():
 
-    return 'new'
+    return 'This are the changes done in Dev server, now moving to Production server'
 
 
 
