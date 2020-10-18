@@ -5,7 +5,7 @@ from bottle import default_app, route
 @route('/')
 def hello_world():
 
-    return 'Made some changes in dev'
+    return 'Made some changes in development server'
 
 
 
